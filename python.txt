@@ -4,5 +4,5 @@ Python Learning Plan
 3. Look into panda's library
 4. Import Excel spreadsheets
 5. Get better with pipes
-6. Practice signal processes in Numpy
-7. Generate something
+6. Practice signal processing in Numpy
+7. Generators and coroutines
